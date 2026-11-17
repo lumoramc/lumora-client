@@ -1,6 +1,8 @@
 ![Lumora Client for Minecraft Bedrock on Windows](assets/lumora.svg)
 
-Build your own HUD for Minecraft Bedrock on Windows. Track frame times and clicks, move your coordinates and compass to the edge of the screen, and choose which of Lumora's 119 modules to enable.
+# Lumora Client for Minecraft Bedrock on Windows
+
+Lumora Client is a customizable HUD client for Minecraft Bedrock Edition on Windows. Track frame times and clicks, move your coordinates and compass, and choose which of the 119 modules to enable.
 
 **[Download for Windows x64](https://github.com/lumoramc/lumora-client/releases/latest/download/Lumora-Client-Installer.exe)** · [Release notes](https://github.com/lumoramc/lumora-client/releases/latest)
 
