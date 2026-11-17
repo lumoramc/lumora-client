@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="220" viewBox="0 0 1120 220" role="img" aria-labelledby="title desc">
+  <title id="title">Lumora Client</title>
+  <desc id="desc">Gold Lumora logo on a charcoal background. Minecraft Bedrock for Windows.</desc>
+  <defs>
+    <g id="mark">
+      <path d="M63 110 118 51 112 196 132 190 199 130 196 180 150 224 88 224 77 225 67 229 61 234 56 240Z"/>
+      <path d="M134 53 168 15 162 142 129 172Z"/>
+    </g>
+  </defs>
+  <rect width="1120" height="220" rx="14" fill="#101113"/>
+  <g fill="none" stroke-width="1.2" stroke-linejoin="round" opacity=".44">
+    <use href="#mark" transform="translate(812 -240) scale(2.1)" stroke="#777342"/>
+    <use href="#mark" transform="translate(779 -240) scale(2.1)" stroke="#4d4b35"/>
+    <use href="#mark" transform="translate(746 -240) scale(2.1)" stroke="#383930"/>
+  </g>
+  <use href="#mark" fill="#fff429" transform="translate(13 29) scale(.67)"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="183" y="119" font-size="67" letter-spacing="-3" font-weight="700" fill="#f6f6f4">Lumora Client</text>
+    <text x="187" y="160" font-size="22" fill="#c3c2b8">Minecraft Bedrock for Windows</text>
+  </g>
+</svg>
