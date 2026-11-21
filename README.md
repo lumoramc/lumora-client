@@ -2,7 +2,7 @@
 
 # Lumora Client for Minecraft Bedrock on Windows
 
-Lumora Client is a customizable HUD client for Minecraft Bedrock Edition on Windows. Track frame times and clicks, move your coordinates and compass, and choose which of the 119 modules to enable.
+Lumora Client is a customizable HUD client for Minecraft Bedrock Edition on Windows. Track frame times and clicks, move your coordinates and compass, and choose which of the 122 modules to enable.
 
 **[Download for Windows x64](https://github.com/lumoramc/lumora-client/releases/latest/download/Lumora-Client-Installer.exe)** · [Release notes](https://github.com/lumoramc/lumora-client/releases/latest)
 
@@ -19,6 +19,7 @@ Lumora Client is a customizable HUD client for Minecraft Bedrock Edition on Wind
 | Spot brief frame drops | Enable **FPS** and **Frame graph**. A spike on the graph shows when a frame took longer to render. |
 | Track your clicking speed | Enable **CPS** and the click limiter. The first number shows accepted left clicks in the past second. Right clicks have their own counter. |
 | See inside dark caves | Enable **Fullbright**. It adjusts world brightness and temporarily turns off smooth block lighting on supported builds. Switching it off restores your settings. |
+| Preview a shulker box | Hold the box with **Shulker Preview** enabled. Choose Minecraft or resource-pack icons in the module settings. |
 | Switch between HUD layouts | Save a setup under **Profiles**. Each profile can have its own widget positions and appearance. |
 
 ![Lumora's Modules menu showing FPS, CPS, Keystrokes, Crosshair, Frame graph, and Clock](assets/modules.png)
@@ -30,7 +31,9 @@ Lumora runs on 64-bit Windows with Minecraft Bedrock for Windows. The following 
 | Minecraft for Windows package versions |
 | --- |
 | `1.26.6301.0`, `1.26.6201.0`, `1.26.6005.0`, `1.26.5203.0`, `1.26.5101.0`, `1.26.5004.0` |
-| `1.26.4501.0`, `1.26.4403.0`, `1.26.4201.0`, `1.26.4005.0`, `1.26.3301.0` |
+| `1.26.4501.0`, `1.26.4403.0`, `1.26.4201.0`, `1.26.4005.0` |
+
+Package `1.26.6501.0` (26.65) has a complete experimental adapter. In-game validation is ongoing.
 
 ## Automatic updates
 
